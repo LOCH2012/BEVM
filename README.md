@@ -1,6 +1,5 @@
 # BasePC 2.0 
 
-### [>>>Крутейший видеообзор<<<](https://www.youtube.com/watch?v=Alctdpfj5jI)
 
 
 Наиболее приближенный к реальности эмулятор БЭВМ сделанный [по вот этой книге](https://books.ifmo.ru/file/pdf/761.pdf)  
@@ -10,9 +9,7 @@
 
 ## Установка
 
-### [Скачивать тут](https://github.com/JustAGod1/bevm/releases)
-
-Архивы и образы для каждой платформы находятся в [разделе релизов](https://github.com/JustAGod1/bevm/releases)
+### [Скачивать тут](https://github.com/LOCH2012/bevm/releases)
 
 ### Windows
 
